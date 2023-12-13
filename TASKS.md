@@ -9,8 +9,9 @@
 - [x] Add Venn Component Diag ram
 - [x] Add Footer Component
 - [x] Add Makefile 
-- [ ] Add Mobile Navbar
+- [x] Add Mobile Navbar
 - [x] Configure Domain
 - [ ] Add Metadata
 - [x] Add Analytics
 - [ ] Update Favicon 
+- [ ] Add Speed Insights
