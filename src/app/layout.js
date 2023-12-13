@@ -9,6 +9,7 @@ const myFont = localFont({ src: './bodo-amat.woff2' })
 export const metadata = {
   title: 'Xerxes the Xooper',
   description: 'The Enchanted Amphibian Companion owned by Grok',
+  metadataBase: new URL('https://xerxes.fyi'),
   openGraph: {
     title: 'Xerxes the Xooper',
     description: 'The Enchanted Amphibian Companion owned by Grok',

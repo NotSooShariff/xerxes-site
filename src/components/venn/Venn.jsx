@@ -18,7 +18,7 @@ const Venn = () => {
         <p class='mt-3 text-3xl'>SYMBOL: XERXES  </p>
         <p class='mt-3 text-3xl'>DECIMALS: 7     </p>
         </div>
-        <div class='flex'>
+        <div class='flex my-3 mx-auto px-3 lg:mx-0 lg:px-0'>
         <div class="flex flex-col items-center">
           <Image width={150} height={150} src="/byte.png" alt="Byte" class="w-50 h-50 rounded-full mb-2"/>
           <p class="text-3xl text-white">BYTE</p>
