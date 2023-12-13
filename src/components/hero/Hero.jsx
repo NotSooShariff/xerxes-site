@@ -27,7 +27,7 @@ const Hero = () => {
       </div>
       <div>
         <p class="text-white text-2xl text-center mb-12">
-        CA: 0X00000000343503592035002489095820485
+        CA: 0X0000000034350359<wbr/>2035002489095820485
         </p>
       </div>
     </section>
