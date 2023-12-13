@@ -7,7 +7,7 @@ import RefImage from './venn-reference.png'
 const Venn = () => {
   return (
     <div>
-      <section class='pl-16 lg:pl-48'>
+      <section class='px-3 lg:pl-48'>
         <div className="flex justify-between items-center flex-col sm:flex-row lg:flex-row">
         <div className="left">
         <p class='mt-3 text-3xl'>FROGGYNOMICS:   </p>  
