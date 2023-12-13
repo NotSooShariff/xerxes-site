@@ -15,6 +15,8 @@ const About = () => {
           COMPANION
         </h1>
         <Image src={"/ownedbygrok.png"} class="lg:pt-10 mx-auto" height={200} width={500} alt='owned by grok'/>
+        <p class='pt-16 text-2xl text-center'>RIBBIT-RIDICULOUS ADVENTURES <wbr/> AWAIT WITH XERXES THE XOOPER!</p>
+        <p class='pt-3 pb-32 text-2xl text-center'>CROAK WITN LAUGHTER. AND JOIN <wbr/> THE FROG OWNED BY GROK!</p>
     </div>
   )
 }
