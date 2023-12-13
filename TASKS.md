@@ -6,4 +6,5 @@
 - [ ] Add Tweet Component
 - [ ] Add About Component
 - [ ] Add Venn Component
-- [ ] Add Footer Component 
+- [ ] Add Footer Component
+- [x] Add Makefile 
