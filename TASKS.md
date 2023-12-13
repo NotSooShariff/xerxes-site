@@ -11,7 +11,7 @@
 - [x] Add Makefile 
 - [x] Add Mobile Navbar
 - [x] Configure Domain
-- [ ] Add Metadata
+- [x] Add Metadata
 - [x] Add Analytics
 - [x] Update Favicon 
 - [x] Add Speed Insights
