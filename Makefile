@@ -1,4 +1,4 @@
 r: 
-	start http://localhost:3000
+	npm run dev
 gt:
 	@call gitpush.bat
