@@ -2,6 +2,7 @@ import { Analytics } from '@vercel/analytics/react';
 import './globals.css'
 import localFont from 'next/font/local'
 import { SpeedInsights } from '@vercel/speed-insights/next';
+import Head from 'next'
 
 const myFont = localFont({ src: './bodo-amat.woff2' })
 
