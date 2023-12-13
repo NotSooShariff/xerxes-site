@@ -13,5 +13,5 @@
 - [x] Configure Domain
 - [ ] Add Metadata
 - [x] Add Analytics
-- [ ] Update Favicon 
+- [x] Update Favicon 
 - [x] Add Speed Insights
