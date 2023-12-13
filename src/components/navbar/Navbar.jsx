@@ -11,7 +11,7 @@ const Navbar = () => {
     <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
         <img src="/navlogo.png" class="h-20" alt="Logo" />
     </a>
-    <button data-collapse-toggle="navbar-default" type="button" class="text-xl inline-flex items-center p-2 w-10 h-10 justify-center text-white rounded-lg md:hidden hover:bg-green-400 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-white dark:hover:bg-green-500 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false">
+    <button data-collapse-toggle="navbar-default" type="button" class="text-xl inline-flex items-center p-2 w-10 h-10 justify-center text-white rounded-lg md:hidden hover:text-green-400 focus:outline-none dark:text-white dark:hover:text-green-500" aria-controls="navbar-default" aria-expanded="false">
         <span class="sr-only">Open main menu</span>
         <svg class="w-16 h-16" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
             <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15"/>
