@@ -14,4 +14,4 @@
 - [ ] Add Metadata
 - [x] Add Analytics
 - [ ] Update Favicon 
-- [ ] Add Speed Insights
+- [x] Add Speed Insights
