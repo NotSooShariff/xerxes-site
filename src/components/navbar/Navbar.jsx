@@ -23,6 +23,7 @@ const Navbar = () => {
             class="text-xl inline-flex items-center p-2 w-10 h-10 justify-center text-white rounded-lg md:hidden hover:text-green-400 focus:outline-none dark:text-white dark:hover:text-green-500"
             aria-controls="navbar-default"
             aria-expanded="false"
+            onClick={toggleOverlay}
           >
             <span class="sr-only">Open main menu</span>
             <svg
