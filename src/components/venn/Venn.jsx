@@ -22,13 +22,13 @@ const Venn = () => {
         <div class="flex flex-col items-center">
           <Image width={150} height={150} src="/byte.png" alt="Byte" class="w-50 h-50 rounded-full mb-2"/>
           <p class="text-3xl text-white">BYTE</p>
-          <p class="mt-2 text-2xl text-white">[GROK's DOG]</p>
+          <p class="mt-2 text-2xl text-white">[GROK's <wbr/> DOG]</p>
           <p class="text-2xl text-white">(ATH: 15M+)</p>
         </div>
         <div class="flex flex-col items-center mx-10 lg:mr-48">
           <Image width={150} height={150} src="/xerxes.png" alt="Xerxes" class="w-50 h-50 rounded-full mb-2"/>
           <p class="text-3xl text-white">XERXES</p>
-          <p class="mt-2 text-2xl text-white">[GROK'S FROG]</p>
+          <p class="mt-2 text-2xl text-white">[GROK'S <wbr/>FROG]</p>
           <p class="text-2xl text-white">(ATH: ???)</p>
         </div>
         </div>
