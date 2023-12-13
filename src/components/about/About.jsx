@@ -11,7 +11,7 @@ const About = () => {
         <h1 class='tracking-widest text-5xl lg:text-8xl'>
           AMPHIBIAN
         </h1>
-        <h1 class='tracking-widest text-5xl lg:pt-10 pl-32 lg:text-8xl'>
+        <h1 class='tracking-widest text-5xl lg:pt-10 lg:pl-32 lg:text-8xl'>
           COMPANION
         </h1>
         <Image src={"/ownedbygrok.png"} class="lg:pt-10 mx-auto" height={200} width={500} alt='owned by grok'/>
