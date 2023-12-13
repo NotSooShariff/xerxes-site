@@ -1,8 +1,8 @@
 # Tasks Before Deployment 
 
-- [ ] Add OTF
-- [ ] Add Navbar Component
-- [ ] Add Hero Section
+- [x] Add OTF
+- [x] Add Navbar Component
+- [x] Add Hero Section
 - [ ] Add Tweet Component
 - [ ] Add About Component
 - [ ] Add Venn Component
