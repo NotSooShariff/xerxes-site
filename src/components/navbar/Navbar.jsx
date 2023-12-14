@@ -25,7 +25,7 @@ const Navbar = () => {
             aria-expanded="false"
             onClick={toggleOverlay}
           >
-            <span class="sr-only">Open main menu</span>
+            <span class="sr-only">Open Menu</span>
             <svg
               class="w-16 h-16"
               aria-hidden="true"
@@ -46,8 +46,8 @@ const Navbar = () => {
             <div class="flex justify-center items-center  fixed top-0 left-0 w-full h-full bg-black z-50">
               <ul class="text-white text-4xl text-center">
                 <li class='py-3 cursor-pointer'>CHART</li>
-                <li class='py-3 cursor-pointer'>TG</li>
-                <li class='py-3 cursor-pointer'>X</li>
+                <li class='py-3 cursor-pointer'><a target="_blank" href="https://t.me/xerxesportal">TG</a></li>
+                <li class='py-3 cursor-pointer'><a target="_blank" href="https://x.com/xerxeserc?s=21">X</a></li>
                 <li class='py-3 cursor-pointer'>BUY NOW!</li>
                 <li onClick={toggleOverlay} class='text-green-500 pt-10 cursor-pointer'>CLOSE</li>
               </ul>
@@ -66,7 +66,8 @@ const Navbar = () => {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="https://t.me/xerxesportal"
+                  target="_blank"
                   class="block mt-2 py-2 px-3 text-black rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-green-700 md:p-0 dark:text-white md:dark:hover:text-green-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
                 >
                   TG
@@ -74,7 +75,8 @@ const Navbar = () => {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="https://x.com/xerxeserc?s=21"
+                  target="_blank"
                   class="block mt-2 py-2 px-3 text-black rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-green-700 md:p-0 dark:text-white md:dark:hover:text-green-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
                 >
                   X
